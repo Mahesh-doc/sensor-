@@ -1,0 +1,53 @@
+reqirements 
+
+1.create 10 sensors-name and details + lable
+2.each sensors pass heath check signal for each 3 seconds  
+if  select the sensor that will stop the health singnal
+3.then that stoped sensor will notify that it was bad in health (and what issue it contains)
+4.and mention the reason for that bad health 
+5.add logger - info and debug
+ 
+
+
+user point of you
+
+1.after runs the program it show only that all the sensors are healthy
+2.if i type the 3rd sensor no it will stop 
+3.then it prints all other sensors are healthy except that one remaining sensor 
+4.and show the reason for that defected sensor why it will be defected (like engine temprature above 60%c)
+5.all other sensors will continuously runs exceps sensor no3 
+
+tecnical requirements - industry level
+
+1. clean architecture
+2. solid principles 
+3. design patterns 
+4. oops 
+5. no hard coding 
+
+techstack - realtime senario
+
+1.fast api - frame work
+2.railway - cloud 
+3.gradio - ui 
+
+
+charctristics
+
+class charactristics
+crate dictnory=key(eng) = value(tem)  
+
+sensor 
+
+from.charactristic import characristic
+
+engine=dict(1:engine)
+
+
+02/03/26
+
+requirements 
+
+1.show sensor name+healthy
+2.integrate fast api 
+3.then integrate gradio

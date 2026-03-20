@@ -1,0 +1,311 @@
+2026-03-19 18:26:20,861 - INFO - Temperature Sensor is healthy
+2026-03-19 18:26:20,862 - INFO - Pressure Sensor is healthy
+2026-03-19 18:26:20,863 - INFO - Vibration Sensor is healthy
+2026-03-19 18:26:20,863 - INFO - Fuel Flow Sensor is healthy
+2026-03-19 18:26:20,864 - INFO - Voltage Sensor is healthy
+2026-03-19 18:26:20,864 - INFO - Speed Sensor is healthy
+2026-03-19 18:26:20,864 - INFO - Brake Pressure Sensor is healthy
+2026-03-19 18:26:20,864 - INFO - Humidity Sensor is healthy
+2026-03-19 18:26:20,865 - INFO - Track Alignment Sensor is healthy
+2026-03-19 18:26:20,865 - INFO - Engine Load Sensor is healthy
+2026-03-19 18:26:25,866 - INFO - Temperature Sensor is healthy
+2026-03-19 18:26:25,867 - INFO - Pressure Sensor is healthy
+2026-03-19 18:26:25,876 - INFO - Vibration Sensor is healthy
+2026-03-19 18:26:25,876 - INFO - Fuel Flow Sensor is healthy
+2026-03-19 18:26:25,876 - INFO - Voltage Sensor is healthy
+2026-03-19 18:26:25,877 - INFO - Speed Sensor is healthy
+2026-03-19 18:26:25,877 - INFO - Brake Pressure Sensor is healthy
+2026-03-19 18:26:25,877 - INFO - Humidity Sensor is healthy
+2026-03-19 18:26:25,877 - INFO - Track Alignment Sensor is healthy
+2026-03-19 18:26:25,878 - INFO - Engine Load Sensor is healthy
+2026-03-19 18:26:30,878 - INFO - Temperature Sensor is healthy
+2026-03-19 18:26:30,879 - INFO - Pressure Sensor is healthy
+2026-03-19 18:26:30,879 - INFO - Vibration Sensor is healthy
+2026-03-19 18:26:30,880 - INFO - Fuel Flow Sensor is healthy
+2026-03-19 18:26:30,880 - INFO - Voltage Sensor is healthy
+2026-03-19 18:26:30,880 - INFO - Speed Sensor is healthy
+2026-03-19 18:26:30,881 - INFO - Brake Pressure Sensor is healthy
+2026-03-19 18:26:30,884 - INFO - Humidity Sensor is healthy
+2026-03-19 18:26:30,886 - INFO - Track Alignment Sensor is healthy
+2026-03-19 18:26:30,886 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:54:07,744 - INFO - Sensor Monitoring API is running
+2026-03-20 09:54:12,746 - INFO - Temperature Sensor is healthy
+2026-03-20 09:54:12,747 - INFO - Pressure Sensor is healthy
+2026-03-20 09:54:12,748 - INFO - Vibration Sensor is healthy
+2026-03-20 09:54:12,749 - INFO - Fuel Flow Sensor is healthy
+2026-03-20 09:54:12,750 - INFO - Voltage Sensor is healthy
+2026-03-20 09:54:12,750 - INFO - Speed Sensor is healthy
+2026-03-20 09:54:12,750 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:54:12,751 - INFO - Humidity Sensor is healthy
+2026-03-20 09:54:12,751 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:54:12,752 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:54:17,753 - INFO - Temperature Sensor is healthy
+2026-03-20 09:54:17,753 - INFO - Pressure Sensor is healthy
+2026-03-20 09:54:17,753 - INFO - Vibration Sensor is healthy
+2026-03-20 09:54:17,754 - INFO - Fuel Flow Sensor is healthy
+2026-03-20 09:54:17,755 - INFO - Voltage Sensor is healthy
+2026-03-20 09:54:17,756 - INFO - Speed Sensor is healthy
+2026-03-20 09:54:17,756 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:54:17,756 - INFO - Humidity Sensor is healthy
+2026-03-20 09:54:17,757 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:54:17,757 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:54:22,758 - INFO - Temperature Sensor is healthy
+2026-03-20 09:54:22,759 - INFO - Pressure Sensor is healthy
+2026-03-20 09:54:22,759 - INFO - Vibration Sensor is healthy
+2026-03-20 09:54:22,760 - INFO - Fuel Flow Sensor is healthy
+2026-03-20 09:54:22,761 - INFO - Voltage Sensor is healthy
+2026-03-20 09:54:22,761 - INFO - Speed Sensor is healthy
+2026-03-20 09:54:22,762 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:54:22,762 - INFO - Humidity Sensor is healthy
+2026-03-20 09:54:22,763 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:54:22,763 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:54:27,764 - INFO - Temperature Sensor is healthy
+2026-03-20 09:54:27,764 - INFO - Pressure Sensor is healthy
+2026-03-20 09:54:27,765 - INFO - Vibration Sensor is healthy
+2026-03-20 09:54:27,765 - INFO - Fuel Flow Sensor is healthy
+2026-03-20 09:54:27,766 - INFO - Voltage Sensor is healthy
+2026-03-20 09:54:27,766 - INFO - Speed Sensor is healthy
+2026-03-20 09:54:27,767 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:54:27,767 - INFO - Humidity Sensor is healthy
+2026-03-20 09:54:27,768 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:54:27,768 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:54:32,769 - INFO - Temperature Sensor is healthy
+2026-03-20 09:54:32,770 - INFO - Pressure Sensor is healthy
+2026-03-20 09:54:32,771 - INFO - Vibration Sensor is healthy
+2026-03-20 09:54:32,771 - INFO - Fuel Flow Sensor is healthy
+2026-03-20 09:54:32,771 - INFO - Voltage Sensor is healthy
+2026-03-20 09:54:32,772 - INFO - Speed Sensor is healthy
+2026-03-20 09:54:32,772 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:54:32,773 - INFO - Humidity Sensor is healthy
+2026-03-20 09:54:32,773 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:54:32,773 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:54:37,774 - INFO - Temperature Sensor is healthy
+2026-03-20 09:54:37,775 - INFO - Pressure Sensor is healthy
+2026-03-20 09:54:37,776 - INFO - Vibration Sensor is healthy
+2026-03-20 09:54:37,776 - INFO - Fuel Flow Sensor is healthy
+2026-03-20 09:54:37,776 - INFO - Voltage Sensor is healthy
+2026-03-20 09:54:37,777 - INFO - Speed Sensor is healthy
+2026-03-20 09:54:37,777 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:54:37,777 - INFO - Humidity Sensor is healthy
+2026-03-20 09:54:37,778 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:54:37,778 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:54:42,779 - INFO - Temperature Sensor is healthy
+2026-03-20 09:54:42,779 - INFO - Pressure Sensor is healthy
+2026-03-20 09:54:42,780 - INFO - Vibration Sensor is healthy
+2026-03-20 09:54:42,781 - INFO - Fuel Flow Sensor is healthy
+2026-03-20 09:54:42,781 - INFO - Voltage Sensor is healthy
+2026-03-20 09:54:42,782 - INFO - Speed Sensor is healthy
+2026-03-20 09:54:42,782 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:54:42,783 - INFO - Humidity Sensor is healthy
+2026-03-20 09:54:42,783 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:54:42,784 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:54:47,784 - INFO - Temperature Sensor is healthy
+2026-03-20 09:54:47,785 - INFO - Pressure Sensor is healthy
+2026-03-20 09:54:47,785 - INFO - Vibration Sensor is healthy
+2026-03-20 09:54:47,785 - INFO - Fuel Flow Sensor is healthy
+2026-03-20 09:54:47,786 - INFO - Voltage Sensor is healthy
+2026-03-20 09:54:47,787 - INFO - Speed Sensor is healthy
+2026-03-20 09:54:47,787 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:54:47,788 - INFO - Humidity Sensor is healthy
+2026-03-20 09:54:47,788 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:54:47,789 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:54:52,790 - INFO - Temperature Sensor is healthy
+2026-03-20 09:54:52,791 - INFO - Pressure Sensor is healthy
+2026-03-20 09:54:52,791 - INFO - Vibration Sensor is healthy
+2026-03-20 09:54:52,791 - INFO - Fuel Flow Sensor is healthy
+2026-03-20 09:54:52,792 - INFO - Voltage Sensor is healthy
+2026-03-20 09:54:52,792 - INFO - Speed Sensor is healthy
+2026-03-20 09:54:52,792 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:54:52,793 - INFO - Humidity Sensor is healthy
+2026-03-20 09:54:52,793 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:54:52,793 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:54:57,798 - INFO - Temperature Sensor is healthy
+2026-03-20 09:54:57,799 - INFO - Pressure Sensor is healthy
+2026-03-20 09:54:57,801 - INFO - Vibration Sensor is healthy
+2026-03-20 09:54:57,802 - INFO - Fuel Flow Sensor is healthy
+2026-03-20 09:54:57,802 - INFO - Voltage Sensor is healthy
+2026-03-20 09:54:57,803 - INFO - Speed Sensor is healthy
+2026-03-20 09:54:57,803 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:54:57,803 - INFO - Humidity Sensor is healthy
+2026-03-20 09:54:57,804 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:54:57,804 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:55:02,805 - INFO - Temperature Sensor is healthy
+2026-03-20 09:55:02,806 - INFO - Pressure Sensor is healthy
+2026-03-20 09:55:02,806 - INFO - Vibration Sensor is healthy
+2026-03-20 09:55:02,807 - INFO - Fuel Flow Sensor is healthy
+2026-03-20 09:55:02,807 - INFO - Voltage Sensor is healthy
+2026-03-20 09:55:02,808 - INFO - Speed Sensor is healthy
+2026-03-20 09:55:02,808 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:55:02,808 - INFO - Humidity Sensor is healthy
+2026-03-20 09:55:02,809 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:55:02,809 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:55:07,810 - INFO - Temperature Sensor is healthy
+2026-03-20 09:55:07,810 - INFO - Pressure Sensor is healthy
+2026-03-20 09:55:07,811 - INFO - Vibration Sensor is healthy
+2026-03-20 09:55:07,811 - INFO - Fuel Flow Sensor is healthy
+2026-03-20 09:55:07,812 - INFO - Voltage Sensor is healthy
+2026-03-20 09:55:07,813 - INFO - Speed Sensor is healthy
+2026-03-20 09:55:07,813 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:55:07,814 - INFO - Humidity Sensor is healthy
+2026-03-20 09:55:07,814 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:55:07,814 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:55:12,815 - INFO - Temperature Sensor is healthy
+2026-03-20 09:55:12,815 - INFO - Pressure Sensor is healthy
+2026-03-20 09:55:12,816 - INFO - Vibration Sensor is healthy
+2026-03-20 09:55:12,817 - INFO - Fuel Flow Sensor is healthy
+2026-03-20 09:55:12,817 - INFO - Voltage Sensor is healthy
+2026-03-20 09:55:12,818 - INFO - Speed Sensor is healthy
+2026-03-20 09:55:12,818 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:55:12,818 - INFO - Humidity Sensor is healthy
+2026-03-20 09:55:12,819 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:55:12,819 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:55:17,820 - INFO - Temperature Sensor is healthy
+2026-03-20 09:55:17,821 - INFO - Pressure Sensor is healthy
+2026-03-20 09:55:17,821 - INFO - Vibration Sensor is healthy
+2026-03-20 09:55:17,821 - INFO - Fuel Flow Sensor is healthy
+2026-03-20 09:55:17,822 - INFO - Voltage Sensor is healthy
+2026-03-20 09:55:17,822 - INFO - Speed Sensor is healthy
+2026-03-20 09:55:17,823 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:55:17,823 - INFO - Humidity Sensor is healthy
+2026-03-20 09:55:17,823 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:55:17,824 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:55:22,834 - INFO - Temperature Sensor is healthy
+2026-03-20 09:55:22,835 - INFO - Pressure Sensor is healthy
+2026-03-20 09:55:22,835 - INFO - Vibration Sensor is healthy
+2026-03-20 09:55:22,836 - INFO - Fuel Flow Sensor is healthy
+2026-03-20 09:55:22,836 - INFO - Voltage Sensor is healthy
+2026-03-20 09:55:22,836 - INFO - Speed Sensor is healthy
+2026-03-20 09:55:22,837 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:55:22,837 - INFO - Humidity Sensor is healthy
+2026-03-20 09:55:22,838 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:55:22,838 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:55:27,839 - INFO - Temperature Sensor is healthy
+2026-03-20 09:55:27,844 - INFO - Pressure Sensor is healthy
+2026-03-20 09:55:27,845 - INFO - Vibration Sensor is healthy
+2026-03-20 09:55:27,846 - INFO - Fuel Flow Sensor is healthy
+2026-03-20 09:55:27,847 - INFO - Voltage Sensor is healthy
+2026-03-20 09:55:27,848 - INFO - Speed Sensor is healthy
+2026-03-20 09:55:27,856 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:55:27,857 - INFO - Humidity Sensor is healthy
+2026-03-20 09:55:27,858 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:55:27,859 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:55:32,861 - INFO - Temperature Sensor is healthy
+2026-03-20 09:55:32,862 - INFO - Pressure Sensor is healthy
+2026-03-20 09:55:32,863 - INFO - Vibration Sensor is healthy
+2026-03-20 09:55:32,863 - INFO - Fuel Flow Sensor is healthy
+2026-03-20 09:55:32,864 - INFO - Voltage Sensor is healthy
+2026-03-20 09:55:32,865 - INFO - Speed Sensor is healthy
+2026-03-20 09:55:32,865 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:55:32,866 - INFO - Humidity Sensor is healthy
+2026-03-20 09:55:32,871 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:55:32,879 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:55:37,882 - INFO - Temperature Sensor is healthy
+2026-03-20 09:55:37,883 - INFO - Pressure Sensor is healthy
+2026-03-20 09:55:37,883 - INFO - Vibration Sensor is healthy
+2026-03-20 09:55:37,883 - INFO - Fuel Flow Sensor is healthy
+2026-03-20 09:55:37,884 - INFO - Voltage Sensor is healthy
+2026-03-20 09:55:37,884 - INFO - Speed Sensor is healthy
+2026-03-20 09:55:37,885 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:55:37,885 - INFO - Humidity Sensor is healthy
+2026-03-20 09:55:37,886 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:55:37,886 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:55:42,888 - INFO - Temperature Sensor is healthy
+2026-03-20 09:55:42,889 - INFO - Pressure Sensor is healthy
+2026-03-20 09:55:42,889 - INFO - Vibration Sensor is healthy
+2026-03-20 09:55:42,889 - INFO - Fuel Flow Sensor is healthy
+2026-03-20 09:55:42,890 - INFO - Voltage Sensor is healthy
+2026-03-20 09:55:42,890 - INFO - Speed Sensor is healthy
+2026-03-20 09:55:42,890 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:55:42,891 - INFO - Humidity Sensor is healthy
+2026-03-20 09:55:42,891 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:55:42,892 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:55:47,892 - INFO - Temperature Sensor is healthy
+2026-03-20 09:55:47,893 - INFO - Pressure Sensor is healthy
+2026-03-20 09:55:47,893 - INFO - Vibration Sensor is healthy
+2026-03-20 09:55:47,894 - INFO - Fuel Flow Sensor is healthy
+2026-03-20 09:55:47,895 - INFO - Voltage Sensor is healthy
+2026-03-20 09:55:47,895 - INFO - Speed Sensor is healthy
+2026-03-20 09:55:47,895 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:55:47,896 - INFO - Humidity Sensor is healthy
+2026-03-20 09:55:47,896 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:55:47,898 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:55:52,899 - INFO - Temperature Sensor is healthy
+2026-03-20 09:55:52,900 - INFO - Pressure Sensor is healthy
+2026-03-20 09:55:52,901 - INFO - Vibration Sensor is healthy
+2026-03-20 09:55:52,902 - INFO - Fuel Flow Sensor is healthy
+2026-03-20 09:55:52,903 - INFO - Voltage Sensor is healthy
+2026-03-20 09:55:52,904 - INFO - Speed Sensor is healthy
+2026-03-20 09:55:52,904 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:55:52,905 - INFO - Humidity Sensor is healthy
+2026-03-20 09:55:52,905 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:55:52,906 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:55:57,908 - INFO - Temperature Sensor is healthy
+2026-03-20 09:55:57,908 - INFO - Pressure Sensor is healthy
+2026-03-20 09:55:57,909 - INFO - Vibration Sensor is healthy
+2026-03-20 09:55:57,909 - INFO - Fuel Flow Sensor is healthy
+2026-03-20 09:55:57,910 - INFO - Voltage Sensor is healthy
+2026-03-20 09:55:57,910 - INFO - Speed Sensor is healthy
+2026-03-20 09:55:57,911 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:55:57,911 - INFO - Humidity Sensor is healthy
+2026-03-20 09:55:57,912 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:55:57,912 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:56:02,913 - INFO - Temperature Sensor is healthy
+2026-03-20 09:56:02,914 - INFO - Pressure Sensor is healthy
+2026-03-20 09:56:02,914 - INFO - Vibration Sensor is healthy
+2026-03-20 09:56:02,914 - INFO - Fuel Flow Sensor is healthy
+2026-03-20 09:56:02,915 - INFO - Voltage Sensor is healthy
+2026-03-20 09:56:02,915 - INFO - Speed Sensor is healthy
+2026-03-20 09:56:02,915 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:56:02,916 - INFO - Humidity Sensor is healthy
+2026-03-20 09:56:02,916 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:56:02,916 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:56:07,918 - INFO - Temperature Sensor is healthy
+2026-03-20 09:56:07,919 - INFO - Pressure Sensor is healthy
+2026-03-20 09:56:07,920 - INFO - Vibration Sensor is healthy
+2026-03-20 09:56:07,920 - ERROR - Fuel Flow Sensor FAILED - Fuel flow interrupted
+2026-03-20 09:56:07,921 - INFO - Voltage Sensor is healthy
+2026-03-20 09:56:07,922 - INFO - Speed Sensor is healthy
+2026-03-20 09:56:07,922 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:56:07,923 - INFO - Humidity Sensor is healthy
+2026-03-20 09:56:07,923 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:56:07,923 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:56:12,924 - INFO - Temperature Sensor is healthy
+2026-03-20 09:56:12,924 - INFO - Pressure Sensor is healthy
+2026-03-20 09:56:12,925 - INFO - Vibration Sensor is healthy
+2026-03-20 09:56:12,925 - ERROR - Fuel Flow Sensor FAILED - Fuel flow interrupted
+2026-03-20 09:56:12,926 - INFO - Voltage Sensor is healthy
+2026-03-20 09:56:12,926 - INFO - Speed Sensor is healthy
+2026-03-20 09:56:12,926 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:56:12,927 - INFO - Humidity Sensor is healthy
+2026-03-20 09:56:12,927 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:56:12,927 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:56:17,928 - INFO - Temperature Sensor is healthy
+2026-03-20 09:56:17,929 - INFO - Pressure Sensor is healthy
+2026-03-20 09:56:17,929 - INFO - Vibration Sensor is healthy
+2026-03-20 09:56:17,930 - ERROR - Fuel Flow Sensor FAILED - Fuel flow interrupted
+2026-03-20 09:56:17,930 - INFO - Voltage Sensor is healthy
+2026-03-20 09:56:17,931 - INFO - Speed Sensor is healthy
+2026-03-20 09:56:17,931 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:56:17,932 - INFO - Humidity Sensor is healthy
+2026-03-20 09:56:17,932 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:56:17,933 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:56:22,933 - INFO - Temperature Sensor is healthy
+2026-03-20 09:56:22,934 - INFO - Pressure Sensor is healthy
+2026-03-20 09:56:22,936 - INFO - Vibration Sensor is healthy
+2026-03-20 09:56:22,936 - ERROR - Fuel Flow Sensor FAILED - Fuel flow interrupted
+2026-03-20 09:56:22,937 - INFO - Voltage Sensor is healthy
+2026-03-20 09:56:22,938 - INFO - Speed Sensor is healthy
+2026-03-20 09:56:22,938 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:56:22,939 - INFO - Humidity Sensor is healthy
+2026-03-20 09:56:22,939 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:56:22,939 - INFO - Engine Load Sensor is healthy
+2026-03-20 09:56:27,940 - INFO - Temperature Sensor is healthy
+2026-03-20 09:56:27,941 - INFO - Pressure Sensor is healthy
+2026-03-20 09:56:27,941 - INFO - Vibration Sensor is healthy
+2026-03-20 09:56:27,941 - ERROR - Fuel Flow Sensor FAILED - Fuel flow interrupted
+2026-03-20 09:56:27,942 - INFO - Voltage Sensor is healthy
+2026-03-20 09:56:27,942 - INFO - Speed Sensor is healthy
+2026-03-20 09:56:27,943 - INFO - Brake Pressure Sensor is healthy
+2026-03-20 09:56:27,943 - INFO - Humidity Sensor is healthy
+2026-03-20 09:56:27,944 - INFO - Track Alignment Sensor is healthy
+2026-03-20 09:56:27,944 - INFO - Engine Load Sensor is healthy
