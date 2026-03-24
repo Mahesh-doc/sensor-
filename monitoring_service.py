@@ -1,6 +1,7 @@
 import threading
 import time
 from sensor import Sensor
+from email_service import send_email_alert
 
 class MonitoringService:
     def __init__(self, logger):
@@ -46,7 +47,10 @@ class MonitoringService:
                         sensor.failure_reason = "Fuel flow interrupted"
                         sensor.active = False
 
-                    self.logger.error(f"{sensor.label} FAILED - {sensor.failure_reason}")
+                        self.logger.error(f"{sensor.label} FAILED - {sensor.failure_reason}")
+                        send_email_alert(sensor.label, sensor.failure_reason)
+                    else:
+                        self.logger.error(f"{sensor.label} FAILED - {sensor.failure_reason}")
 
                 else:
                     if sensor.active:
@@ -62,6 +66,8 @@ class MonitoringService:
             if sensor.sensor_id == sensor_id and sensor.active:
                 sensor.stop("Stopped manually")
                 self.logger.info(f"{sensor.label} stopped manually")
+                send_email_alert(sensor.label, sensor.failure_reason)
+
                 return {
                     "status": "success",
                     "message": f"{sensor.label} stopped",
@@ -96,7 +102,7 @@ class MonitoringService:
 
         elif cmd.startswith("stop"):
             try:
-                sensor_id = int(cmd.split()[1])   # ✅ FIXED INDENT
+                sensor_id = int(cmd.split()[1])
                 return self.stop_sensor(sensor_id)
             except:
                 return {"error": "Invalid command"}
