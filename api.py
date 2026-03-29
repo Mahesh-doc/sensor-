@@ -1,3 +1,5 @@
+# fast api for monitoring service
+
 from fastapi import FastAPI
 from contextlib import asynccontextmanager
 from monitoring_service import MonitoringService
@@ -6,10 +8,12 @@ from logger_config import setup_logger
 logger = setup_logger()
 
 # Create monitoring service
+
 service = MonitoringService(logger)
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
+
     # Startup code
     logger.info("Sensor Monitoring API is running")
     service.start_monitoring()
