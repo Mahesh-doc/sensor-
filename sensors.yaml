@@ -1,0 +1,251 @@
+thresholds:
+  temperature: 60
+  pressure: 30
+  vibration: 5.0
+  fuel_flow: 10
+  voltage: 210
+  speed: 120
+  brake_pressure: 40
+  humidity: 80
+  engine_load: 90
+
+sensors:
+  - sensor_id: 1
+    label: "Temperature Sensor"
+    code: "SENSOR-1"
+    temperature: 50
+    pressure: 40
+    vibration: 2.0
+    fuel_flow: 20
+    voltage: 220
+    speed: 70
+    brake_pressure: 60
+    humidity: 45
+    track_aligned: true
+    engine_load: 55
+    severity: "HIGH"
+    next_failures:
+      - "Radiator"
+      - "Coolant System"
+      - "Engine Block"
+    action: "Check coolant level, radiator fan, and engine temperature immediately."
+    graph:
+      Heat Level: 90
+      Engine Risk: 85
+      Coolant Loss Risk: 70
+
+  - sensor_id: 2
+    label: "Pressure Sensor"
+    code: "SENSOR-2"
+    temperature: 48
+    pressure: 42
+    vibration: 1.8
+    fuel_flow: 20
+    voltage: 221
+    speed: 68
+    brake_pressure: 58
+    humidity: 46
+    track_aligned: true
+    engine_load: 50
+    severity: "MEDIUM"
+    next_failures:
+      - "Pump"
+      - "Pipe Line"
+      - "Valve System"
+    action: "Inspect pressure lines, pump condition, and valve leakage."
+    graph:
+      Pressure Drop: 75
+      Pump Risk: 60
+      Leak Risk: 65
+
+  - sensor_id: 3
+    label: "Vibration Sensor"
+    code: "SENSOR-3"
+    temperature: 49
+    pressure: 41
+    vibration: 2.5
+    fuel_flow: 19
+    voltage: 219
+    speed: 69
+    brake_pressure: 57
+    humidity: 44
+    track_aligned: true
+    engine_load: 53
+    severity: "HIGH"
+    next_failures:
+      - "Bearing"
+      - "Shaft"
+      - "Motor Mount"
+    action: "Check bearing wear, shaft alignment, and mounting bolts."
+    graph:
+      Vibration: 88
+      Bearing Risk: 80
+      Shaft Risk: 72
+
+  - sensor_id: 4
+    label: "Fuel Flow Sensor"
+    code: "SENSOR-4"
+    temperature: 50
+    pressure: 40
+    vibration: 2.0
+    fuel_flow: 18
+    voltage: 220
+    speed: 70
+    brake_pressure: 60
+    humidity: 45
+    track_aligned: true
+    engine_load: 54
+    severity: "CRITICAL"
+    next_failures:
+      - "Fuel Pump"
+      - "Injector"
+      - "Engine Combustion"
+    action: "Inspect fuel pump, injector blockage, and fuel line connection."
+    graph:
+      Fuel Flow Loss: 95
+      Pump Risk: 82
+      Injector Risk: 78
+
+  - sensor_id: 5
+    label: "Voltage Sensor"
+    code: "SENSOR-5"
+    temperature: 47
+    pressure: 39
+    vibration: 2.1
+    fuel_flow: 20
+    voltage: 222
+    speed: 66
+    brake_pressure: 59
+    humidity: 43
+    track_aligned: true
+    engine_load: 52
+    severity: "MEDIUM"
+    next_failures:
+      - "Battery"
+      - "Alternator"
+      - "Wiring System"
+    action: "Check battery charge, alternator output, and wiring continuity."
+    graph:
+      Voltage Fluctuation: 70
+      Battery Risk: 68
+      Alternator Risk: 74
+
+  - sensor_id: 6
+    label: "Speed Sensor"
+    code: "SENSOR-6"
+    temperature: 46
+    pressure: 38
+    vibration: 2.2
+    fuel_flow: 21
+    voltage: 220
+    speed: 75
+    brake_pressure: 61
+    humidity: 42
+    track_aligned: true
+    engine_load: 56
+    severity: "MEDIUM"
+    next_failures:
+      - "Transmission"
+      - "Wheel Hub"
+      - "ABS Unit"
+    action: "Inspect transmission response, wheel hub sensor, and ABS signals."
+    graph:
+      Speed Error: 65
+      Transmission Risk: 58
+      ABS Risk: 62
+
+  - sensor_id: 7
+    label: "Brake Pressure Sensor"
+    code: "SENSOR-7"
+    temperature: 49
+    pressure: 40
+    vibration: 2.0
+    fuel_flow: 20
+    voltage: 221
+    speed: 67
+    brake_pressure: 62
+    humidity: 44
+    track_aligned: true
+    engine_load: 51
+    severity: "CRITICAL"
+    next_failures:
+      - "Brake Pads"
+      - "Brake Fluid Line"
+      - "Disc Rotor"
+    action: "Check brake pads, brake fluid, and rotor condition immediately."
+    graph:
+      Brake Risk: 93
+      Pad Wear: 84
+      Fluid Loss Risk: 79
+
+  - sensor_id: 8
+    label: "Humidity Sensor"
+    code: "SENSOR-8"
+    temperature: 48
+    pressure: 41
+    vibration: 2.0
+    fuel_flow: 19
+    voltage: 220
+    speed: 65
+    brake_pressure: 60
+    humidity: 50
+    track_aligned: true
+    engine_load: 49
+    severity: "MEDIUM"
+    next_failures:
+      - "Electrical Contacts"
+      - "Sensor Housing"
+      - "Wiring Insulation"
+    action: "Inspect moisture source and protect sensor wiring."
+    graph:
+      Humidity Risk: 80
+      Wiring Risk: 62
+      Corrosion Risk: 67
+
+  - sensor_id: 9
+    label: "Track Alignment Sensor"
+    code: "SENSOR-9"
+    temperature: 47
+    pressure: 39
+    vibration: 1.9
+    fuel_flow: 20
+    voltage: 219
+    speed: 64
+    brake_pressure: 58
+    humidity: 47
+    track_aligned: true
+    engine_load: 50
+    severity: "HIGH"
+    next_failures:
+      - "Wheel Alignment"
+      - "Suspension"
+      - "Axle Support"
+    action: "Inspect alignment, axle support, and suspension balance."
+    graph:
+      Alignment Error: 88
+      Suspension Risk: 72
+      Axle Risk: 69
+
+  - sensor_id: 10
+    label: "Engine Load Sensor"
+    code: "SENSOR-10"
+    temperature: 51
+    pressure: 40
+    vibration: 2.4
+    fuel_flow: 18
+    voltage: 218
+    speed: 72
+    brake_pressure: 59
+    humidity: 46
+    track_aligned: true
+    engine_load: 60
+    severity: "HIGH"
+    next_failures:
+      - "Throttle Body"
+      - "Air Intake"
+      - "Engine Control Unit"
+    action: "Inspect throttle body, intake airflow, and ECU response."
+    graph:
+      Load Variation: 87
+      Throttle Risk: 76
+      ECU Stress: 69
